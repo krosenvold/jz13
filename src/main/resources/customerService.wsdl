@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ?xml-stylesheet type="text/xsl" href="wsdl-viewer.xsl"? -->
+<wsdl:definitions
+                  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+                  targetNamespace="http://jz13.org/customerService">
+
+</wsdl:definitions>
