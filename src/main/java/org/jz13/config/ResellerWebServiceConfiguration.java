@@ -1,6 +1,5 @@
 package org.jz13.config;
 
-import org.jz13.CustomerWebserviceEndpoint;
 import org.jz13.ResellerWebserviceEndpoint;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Import;
@@ -15,7 +14,7 @@ import org.springframework.xml.xsd.SimpleXsdSchema;
 public class ResellerWebServiceConfiguration
 {
     @Bean
-    public SimpleXsdSchema ResellerSchema() {
+    public SimpleXsdSchema resellerSchema() {
         return new SimpleXsdSchema(new ClassPathResource("ResellerSchema.xsd"));
     }
 
