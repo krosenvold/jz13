@@ -12,5 +12,8 @@ public class MyHomePage extends WebPage
     private TestService testService;
 
 
-    // todo: Make page :)
+    public MyHomePage(){
+        // todo: Make page :)
+    }
+
 }

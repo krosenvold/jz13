@@ -14,7 +14,6 @@ import static junit.framework.Assert.assertNotNull;
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes={ DefaultApplicationConfiguration.class})
-
 public class TestServiceTest
 {
     @Autowired
