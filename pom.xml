@@ -9,7 +9,7 @@
   <version>1.0</version>
 
   <properties>
-    <jetty.version>9.0.3.v20130506</jetty.version>
+    <jetty.version>11.0.2</jetty.version>
     <jdk.version>1.7</jdk.version>
     <springframework.version>3.2.15.RELEASE</springframework.version>
     <wicket.version>6.9.1</wicket.version>
