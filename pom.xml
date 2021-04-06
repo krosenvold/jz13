@@ -11,7 +11,7 @@
   <properties>
     <jetty.version>11.0.2</jetty.version>
     <jdk.version>1.7</jdk.version>
-    <springframework.version>3.2.15.RELEASE</springframework.version>
+    <springframework.version>5.3.5</springframework.version>
     <wicket.version>6.9.1</wicket.version>
     <log4j.version>1.2.16</log4j.version>
   </properties>
