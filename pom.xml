@@ -13,7 +13,7 @@
     <jdk.version>1.7</jdk.version>
     <springframework.version>5.3.5</springframework.version>
     <wicket.version>6.9.1</wicket.version>
-    <log4j.version>1.2.16</log4j.version>
+    <log4j.version>1.2.17</log4j.version>
   </properties>
 
   <dependencies>
@@ -67,7 +67,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.8.1</version>
+      <version>4.13.2</version>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
@@ -114,7 +114,7 @@
     <dependency>
       <groupId>com.google.guava</groupId>
       <artifactId>guava</artifactId>
-      <version>15.0</version>
+      <version>30.1.1-jre</version>
     </dependency>
   </dependencies>
   <build>
